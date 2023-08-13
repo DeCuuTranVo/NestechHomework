@@ -1,0 +1,115 @@
+1. Viết chương trình JavaScript/Java để hiển thị ngày giờ hiện tại theo định dạng sau 
+Sample Output : Today is : Tuesday.
+Current time is : 10 PM : 30 : 38
+
+
+2. Viết chương trình JavaScript/Java để in nội dung window hiện tại.
+
+
+3. Viết chương trình JavaScript/Java để lấy ngày hiện tại.  
+Expected Output :
+mm-dd-yyyy, mm/dd/yyyy or dd-mm-yyyy, dd/mm/yyyy
+
+
+4. Viết chương trình JavaScript/Java để tìm diện tích của một tam giác có ba cạnh là 5, 6, 7.  
+
+
+6. Viết chương trình JavaScript/Java để xác định xem một năm đã cho có phải là năm nhuận trong lịch duong hay không. 
+
+
+7. Viết chương trình JavaScript/Java để tìm hiểu xem ngày 1 tháng 1 có phải là Chủ nhật từ năm 2014 đến năm 2050 hay không.
+
+
+8. Viết chương trình JavaScript/Java trong đó chương trình lấy một số nguyên ngẫu nhiên trong khoảng từ 1 đến 10, sau đó người dùng được nhắc nhập một số dự đoán. Chương trình sẽ hiển thị thông báo "Làm tốt lắm" nếu đầu vào khớp với số dự đoán nếu không thì "Không khớp".
+
+9. Viết chương trình JavaScript/Java để tính số ngày còn lại trước Giáng sinh.
+
+
+10. Viết chương trình JavaScript/Java để tính phép nhân và chia hai số (nhập từ người dùng).
+
+
+11.Viết chương trình JavaScript/Java để chuyển đổi nhiệt độ sang và từ độ C, độ F.
+[ Công thức: c/5 = (f-32)/9 [ trong đó c = nhiệt độ tính bằng độ C và f = nhiệt độ tính bằng độ F ]
+
+12. Viết chương trình JavaScript/Java để lấy URL của trang web (trang tải) (loading page).  
+
+
+13. Viết bài tập JavaScript/Java để tạo một biến sử dụng tên do người dùng đặt.
+
+14. Viết bài tập JavaScript/Java để lấy phần mở rộng tên tệp.
+Example: input "Main.java" lấy ra "java", input "index.php" lấy ra "php"
+
+
+15. Viết chương trình JavaScript/Java để lấy hiệu giữa một số đã cho và 13, nếu số lớn hơn 13, trả về gấp đôi hiệu tuyệt đối.
+
+16. Viết chương trình JavaScript/Java để tính tổng của hai số nguyên đã cho. Nếu hai giá trị giống nhau, thì trả về gấp ba lần tổng của chúng.
+
+17. Viết chương trình JavaScript/Java để tính chênh lệch tuyệt đối giữa một số đã chỉ định và 19. Trả về gấp ba lần chênh lệch tuyệt đối nếu số đã chỉ định lớn hơn 19.
+
+18. Viết chương trình JavaScript/Java để kiểm tra một cặp số và trả về true nếu một trong các số là 50 hoặc nếu tổng của chúng là 50.
+
+19. Viết chương trình JavaScript/Java để kiểm tra xem một số nguyên đã cho nằm trong khoảng 20 của 100 hay 400.
+
+20. Viết chương trình JavaScript/Java để kiểm tra hai số nguyên đã cho xem một số nguyên dương và một số nguyên âm.
+
+21. Viết chương trình JavaScript/Java để tạo một chuỗi khác bằng cách thêm "Py" vào trước một chuỗi đã cho. Nếu chuỗi đã cho bắt đầu bằng "Py" hãy trả về chuỗi gốc.
+
+22. Viết chương trình JavaScript/Java để xóa một ký tự ở vị trí xác định trong một chuỗi đã cho và trả về chuỗi đã sửa.
+
+23. Viết chương trình JavaScript/Java để tạo một chuỗi mới từ một chuỗi đã cho bằng cách thay đổi vị trí của ký tự đầu và ký tự cuối. Độ dài chuỗi phải lớn hơn hoặc bằng 1.
+
+24. Viết chương trình JavaScript/Java để tạo một chuỗi khác từ một chuỗi đã cho có thêm ký tự đầu tiên của chuỗi đã cho vào trước và sau.
+
+25. Viết chương trình JavaScript/Java để kiểm tra xem một số dương đã cho là bội số của 3 hay 7.
+
+26. Viết chương trình JavaScript/Java để tạo một chuỗi từ một chuỗi cho trước. Điều này được thực hiện bằng cách lấy 3 ký tự cuối cùng và thêm chúng ở cả phía trước và phía sau. Độ dài chuỗi phải từ 3 trở lên.
+
+27. Viết chương trình JavaScript/Java để kiểm tra xem một chuỗi có bắt đầu bằng 'Java' hay không nếu ngược lại.
+
+28. Viết chương trình JavaScript/Java để kiểm tra xem hai giá trị số nguyên đã cho có nằm trong khoảng 50..99 (bao gồm cả) hay không. Trả về true nếu một trong số chúng nằm trong phạm vi.
+
+29. Viết chương trình JavaScript/Java để kiểm tra xem ba giá trị số nguyên đã cho có nằm trong khoảng 50..99 (bao gồm cả) hay không. Trả về true nếu một hoặc nhiều trong số chúng nằm trong phạm vi đã chỉ định.
+
+30. Viết chương trình JavaScript/Java để kiểm tra xem một chuỗi "Script" có xuất hiện ở vị trí thứ 5 (chỉ số 4) trong một chuỗi đã cho hay không. Nếu "Script" xuất hiện trong chuỗi, trả lại chuỗi không có "Script" nếu không trả lại chuỗi gốc.
+
+31. Viết chương trình JavaScript/Java tìm số lớn nhất trong ba số nguyên đã cho.
+
+32. Viết chương trình JavaScript/Java để tìm giá trị gần nhất với 100 từ hai giá trị số.
+
+33. Viết chương trình JavaScript/Java để kiểm tra xem hai số có nằm trong khoảng 40..60 hoặc 70..100 hay không.
+
+34. Viết chương trình JavaScript/Java tìm số lớn nhất trong hai số nguyên dương đã cho. Hai số nằm trong khoảng 40..60.
+
+35. Viết chương trình kiểm tra xem một ký tự xác định có tồn tại giữa vị trí thứ 2 và thứ 4 trong một chuỗi cho trước hay không.
+
+36. Viết chương trình JavaScript/Java kiểm tra xem chữ số cuối của ba số nguyên dương có giống nhau hay không.
+
+37. Viết chương trình JavaScript/Java để tạo một chuỗi mới có 3 ký tự đầu tiên viết thường từ một chuỗi đã cho. Nếu độ dài chuỗi nhỏ hơn 3, hãy chuyển đổi tất cả các ký tự thành chữ hoa.
+
+38. Viết chương trình JavaScript/Java để kiểm tra tổng điểm của một học sinh trong các kỳ thi khác nhau. Học sinh sẽ đạt điểm A+ nếu tổng điểm nằm trong khoảng 89..100, nếu kỳ thi là "Thi cuối kỳ" thì học sinh sẽ đạt điểm A+ và tổng điểm phải lớn hơn hoặc bằng 90. Nếu là học sinh được điểm A+, trả về true, ngược lại trả về false.
+
+39. Viết chương trình JavaScript/Java để tính tổng của hai số nguyên đã cho. Nếu tổng nằm trong phạm vi 50..80 trả về 65 nếu không thì trả về 80.
+
+40. Viết chương trình JavaScript/Java để kiểm tra từ hai số nguyên đã cho xem một trong số chúng là 8 hay tổng hoặc hiệu của chúng là 8.
+
+41. Viết chương trình JavaScript/Java để kiểm tra một bộ ba số; nếu ba số giống nhau trả về 30; ngược lại trả về 20; và nếu hai số giống nhau trả về 40.
+
+42. Viết chương trình JavaScript/Java để kiểm tra xem ba số đã cho đang tăng theo strict hoặc soft mode.  
+Lưu ý: strict mode -> 10, 15, 31 : soft mode -> 24, 22, 31 hoặc 22, 22, 31
+
+43. Viết chương trình JavaScript/Java để kiểm tra trong ba số đã cho (số nguyên không âm) xem có hai hoặc tất cả các số đó có chữ số ngoài cùng bên phải giống nhau không.
+
+44. Viết chương trình JavaScript/Java để kiểm tra xem trong ba số nguyên đã cho có một số lớn hơn hoặc bằng 20 hay không.
+
+45. Viết chương trình JavaScript/Java kiểm tra hai giá trị số nguyên và trả về true nếu một trong hai giá trị này là 15 hoặc nếu tổng hoặc hiệu của chúng là 15.
+
+46. Viết chương trình JavaScript/Java để kiểm tra hai số nguyên không âm đã cho nếu một (không phải cả hai) là bội của 7 hoặc 11.
+
+47. Viết chương trình JavaScript/Java để kiểm tra xem một số đã cho có tồn tại trong phạm vi 40..10000 hay không.
+Ví dụ 40 trong 40 và 4000
+
+48. Viết chương trình JavaScript/Java để đảo ngược một chuỗi đã cho.
+
+49. Viết chương trình JavaScript/Java để thay thế mọi ký tự trong một chuỗi đã cho bằng ký tự theo sau nó trong bảng chữ cái.
+
+50. Viết chương trình JavaScript/Java để viết hoa chữ cái đầu tiên của mỗi từ trong một chuỗi cho trước.
