@@ -9,15 +9,10 @@ alert( isEmpty(schedule) ); // false
 
 function isEmpty(pObj) {
     let countProperty = 0;
-    for (key in pObj) {
+    for (let key in pObj)
         countProperty += 1;
-    }
     
-    if (countProperty > 0) {
-        return true;
-    } else {
-        return false;
-    }
+    return countProperty === 0;
 }
 
 let schedule = {};
