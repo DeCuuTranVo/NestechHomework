@@ -11,7 +11,7 @@ function isEmpty(pObj) {
     let countProperty = 0;
     for (let key in pObj)
         countProperty += 1;
-    }
+    
     
  return countProperty > 0;
         return true;
