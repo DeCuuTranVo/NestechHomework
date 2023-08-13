@@ -13,7 +13,7 @@ function isEmpty(pObj) {
         countProperty += 1;
     }
     
-    if (countProperty > 0) {
+ return countProperty > 0;
         return true;
     } else {
         return false;
