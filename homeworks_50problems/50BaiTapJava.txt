@@ -34,7 +34,7 @@ mm-dd-yyyy, mm/dd/yyyy or dd-mm-yyyy, dd/mm/yyyy
 12. Viết chương trình JavaScript/Java để lấy URL của trang web (trang tải) (loading page).  
 
 
-13. Viết bài tập JavaScript/Java để tạo một biến sử dụng tên do người dùng đặt.
+13. Viết bài tập JavaScript/Java để tạo một biến sử dụng tên do người dùng đặt. ???
 
 14. Viết bài tập JavaScript/Java để lấy phần mở rộng tên tệp.
 Example: input "Main.java" lấy ra "java", input "index.php" lấy ra "php"
