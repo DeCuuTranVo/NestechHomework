@@ -12,12 +12,7 @@ function isEmpty(pObj) {
     for (let key in pObj)
         countProperty += 1;
     
-    
- return countProperty > 0;
-        return true;
-    } else {
-        return false;
-    }
+    return countProperty === 0;
 }
 
 let schedule = {};
