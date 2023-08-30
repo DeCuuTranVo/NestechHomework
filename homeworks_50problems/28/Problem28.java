@@ -9,7 +9,7 @@ public class Problem28 {
     private static boolean checkNum(int a, int b) {
         boolean aIn = (50 <= a) && (a <= 99);
         boolean bIn = (50 <= b) && (b <= 99);
-        return aIn || bIn;
+        return (aIn ^ bIn);
     }
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]);

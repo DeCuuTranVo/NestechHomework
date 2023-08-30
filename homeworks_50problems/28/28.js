@@ -16,7 +16,7 @@ var b = Number(args[1]);
 function checkNum(a, b) {
     var aIn = (50 <= a) && (a <= 99);
     var bIn = (50 <= b) && (b <= 99);
-    return aIn || bIn;
+    return Boolean(aIn ^ bIn);
 }
 
 console.log(checkNum(a, b));
